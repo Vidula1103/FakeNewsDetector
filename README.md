@@ -42,7 +42,7 @@ An interactive, high-density full-stack web application that classifies news art
 - **Frontend**: [React 19](https://react.dev/), [Vite](https://vite.dev/), [Tailwind CSS v4](https://tailwindcss.com/), and [Lucide-React](https://lucide.dev/).
 - **Backend Server**: [Express](https://expressjs.com/) serving custom APIs and running static distributions in container environments.
 - **NLP Algorithms**: Built fully in native TypeScript—eliminating external server overheads for real-time keystroke responsiveness.
-
 ---
-itas-nlp-detector.git
-cd veritas-nlp-detector
+
+
+itas-nlp-dete
