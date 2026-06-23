@@ -44,5 +44,4 @@ An interactive, high-density full-stack web application that classifies news art
 - **NLP Algorithms**: Built fully in native TypeScript—eliminating external server overheads for real-time keystroke responsiveness.
 ---
 
-
 i
