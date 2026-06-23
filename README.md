@@ -45,4 +45,4 @@ An interactive, high-density full-stack web application that classifies news art
 ---
 
 
-itas-nlp-dete
+i
