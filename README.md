@@ -8,6 +8,16 @@ An interactive, high-density full-stack web application that classifies news art
 
 ### 1. screen 1
 ![Main Application Interface Workspace](https://github.com/Vidula1103/FakeNewsDetector/blob/main/FNP1.png)
+### 2. screen 2
+![Main Application Interface Workspace](https://github.com/Vidula1103/FakeNewsDetector/blob/main/FNP2.png)
+### 3. screen 3
+![Main Application Interface Workspace](https://github.com/Vidula1103/FakeNewsDetector/blob/main/FNP3.png)
+### 4. screen 4
+![Main Application Interface Workspace](https://github.com/Vidula1103/FakeNewsDetector/blob/main/FNP4.png)
+### 5. screen 5
+![Main Application Interface Workspace](https://github.com/Vidula1103/FakeNewsDetector/blob/main/FNP5.png)
+### 6. screen 6
+![Main Application Interface Workspace](https://github.com/Vidula1103/FakeNewsDetector/blob/main/FNP6.png)
 
 ### 2. Lexical Token Heatmap & Attention Maps
 ![Attention Token Map](https://images.unsplash.com/photo-1546074177-3df103027c72?auto=format&fit=crop&w=1200&q=80)
