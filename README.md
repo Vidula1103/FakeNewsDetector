@@ -6,11 +6,8 @@ An interactive, high-density full-stack web application that classifies news art
 
 ## 📸 Project Screenshots
 
-> *Add screenshots of your application interfaces by dragging images into your repository and linking them in the placeholders below.*
-
-### 1. Main Landing & Dual Classifiers
-![Main Application Interface Workspace](https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80)
-*Modern high-density user interface featuring direct text input, preloaded mock showcase telemetry examples, and real-time classification feeds.*
+### 1. screen 1
+![Main Application Interface Workspace](https://github.com/Vidula1103/FakeNewsDetector/blob/main/FNP1.png)
 
 ### 2. Lexical Token Heatmap & Attention Maps
 ![Attention Token Map](https://images.unsplash.com/photo-1546074177-3df103027c72?auto=format&fit=crop&w=1200&q=80)
