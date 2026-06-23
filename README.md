@@ -44,14 +44,5 @@ An interactive, high-density full-stack web application that classifies news art
 - **NLP Algorithms**: Built fully in native TypeScript—eliminating external server overheads for real-time keystroke responsiveness.
 
 ---
-
-## 📦 Assembly & Installation Guidelines
-
-### Prerequisites
-
-Ensure you have Node.js (version 20+) installed on your local operating machine.
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/veritas-nlp-detector.git
+itas-nlp-detector.git
 cd veritas-nlp-detector
