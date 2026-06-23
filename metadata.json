@@ -1,0 +1,6 @@
+{
+  "name": "Fake News Detector",
+  "description": "An interactive full-stack Fake News Detection platform using custom NLP engines (TF-IDF, Naive Bayes), lexical analysis, and Gemini 3.5 Flash transformer model semantic analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
